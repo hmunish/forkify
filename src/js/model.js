@@ -1,29 +1,28 @@
 import { async } from 'regenerator-runtime';
+import { API_URL } from './config';
+import { getJSON } from './helpers';
 
 export const state = {
   recipe: {},
 };
 
 export const loadRecipe = async id => {
-  // Fetching recipe data from the API
-  const res = await fetch(
-    `https://forkify-api.herokuapp.com/api/v2/recipes/${id}`
-  );
-  const data = await res.json();
+  try {
+    const data = await getJSON(`${API_URL}${id}`);
 
-  // Throwing error if res.ok is false
-  if (!res.ok) throw new Error(`${data.message} (${res.status})`);
-
-  let { recipe } = data.data;
-  // Converting recipe object to with required naming conventions
-  state.recipe = {
-    id: recipe.id,
-    title: recipe.title,
-    publisher: recipe.publisher,
-    sourceUrl: recipe.source_url,
-    image: recipe.image_url,
-    servings: recipe.servings,
-    cookingTime: recipe.cooking_time,
-    ingredients: recipe.ingredients,
-  };
+    let { recipe } = data.data;
+    // Converting recipe object to with required naming conventions
+    state.recipe = {
+      id: recipe.id,
+      title: recipe.title,
+      publisher: recipe.publisher,
+      sourceUrl: recipe.source_url,
+      image: recipe.image_url,
+      servings: recipe.servings,
+      cookingTime: recipe.cooking_time,
+      ingredients: recipe.ingredients,
+    };
+  } catch (err) {
+    console.log('App Error:-', err.message);
+  }
 };

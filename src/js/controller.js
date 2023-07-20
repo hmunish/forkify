@@ -28,7 +28,8 @@ const controlRecipes = async function () {
   }
 };
 
-// Adding event listener to load recipes according to hash
-['hashchange', 'load'].forEach(ev =>
-  window.addEventListener(ev, controlRecipes)
-);
+const init = function () {
+  recipeView.addHandlerRender(controlRecipes);
+};
+
+init();

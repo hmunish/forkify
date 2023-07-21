@@ -43,7 +43,7 @@ export const controlSearchRecipes = async function () {
     // 2) Render seacrh results
     await model.loadSearchResults(query);
 
-    resultsView.render(model.state.search.results);
+    resultsView.render(model.getSearchResultsPage());
   } catch (err) {
     console.log(err);
   }

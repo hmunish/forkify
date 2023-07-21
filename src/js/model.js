@@ -60,3 +60,11 @@ export const getSearchResultsPage = function (page = state.search.page) {
 
   return state.search.results.slice(start, end);
 };
+
+export const updateSevings = function (servings) {
+  state.recipe.ingredients.forEach(ing => {
+    ing.quantity = (ing.quantity * servings) / state.recipe.servings;
+  });
+
+  state.recipe.servings = servings;
+};

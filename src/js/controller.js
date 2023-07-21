@@ -57,8 +57,18 @@ const controlPagination = function (pageNum) {
   paginationView.render(model.state.search);
 };
 
+const controlServings = function (newServings) {
+  // Check if new servings is greater than 0
+  if (newServings < 1) return;
+  // Update the servings in model
+  model.updateSevings(newServings);
+  // Update the DOM
+  recipeView.render(model.state.recipe);
+};
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHanlerClick(controlServings);
   searchView.addHandlerSearch(controlSearchRecipes);
   paginationView.addHanlerClick(controlPagination);
 };

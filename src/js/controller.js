@@ -5,6 +5,7 @@ import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import paginationView from './views/paginationView.js';
 
 if (module.hot) {
   module.hot.accept();
@@ -43,15 +44,23 @@ export const controlSearchRecipes = async function () {
     // 2) Render seacrh results
     await model.loadSearchResults(query);
 
-    resultsView.render(model.getSearchResultsPage());
+    resultsView.render(model.getSearchResultsPage(1));
+
+    paginationView.render(model.state.search);
   } catch (err) {
     console.log(err);
   }
 };
 
+const controlPagination = function (pageNum) {
+  resultsView.render(model.getSearchResultsPage(pageNum));
+  paginationView.render(model.state.search);
+};
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
   searchView.addHandlerSearch(controlSearchRecipes);
+  paginationView.addHanlerClick(controlPagination);
 };
 
 init();

@@ -35,11 +35,11 @@ export const loadSearchResults = async function (query) {
   try {
     state.search.query = query;
     const data = await getJSON(
-      `https://forkify-api.herokuapp.com/api/search?q=${query}`
+      `https://forkify-api.herokuapp.com/api/v2/recipes/?search=${query}`
     );
-    state.search.results = data.recipes.map(rec => {
+    state.search.results = data.data.recipes.map(rec => {
       return {
-        id: rec.recipe_id,
+        id: rec.id,
         title: rec.title,
         publisher: rec.publisher,
         image: rec.image_url,

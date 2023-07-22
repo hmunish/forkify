@@ -1,4 +1,4 @@
-9633
+9632
 148C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133342279502309610 0
 151C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133342279498102736 0
 142C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\cjs\syntax\node\MediaCondition.cjs133342279602223014 0
@@ -19,7 +19,7 @@
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\regions\PK.js133342279767954827 0
 113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\domelementtype133342279458699828 1
 157C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\TypeSelector.js133342279652215177 0
-90C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist133344400342378535 1
+90C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist133345246757760403 1
 143C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\variable-fonts.js133342279782155207 0
 136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\runtime-js\src\helpers\worker133342279549078795 1
 128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\is-iterable.js133342341953340246 0
@@ -39,7 +39,7 @@
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\source-map\lib\binary-search.js133342279458827225 0
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries133342279430576312 1
 121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\escalade\sync\index.js133342279424884655 0
-96C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\.gitignore133342277497115196 0
+96C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\.gitignore133345218936014997 0
 117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\svgo\lib\svgo.d.ts133342279604807427 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\regions\DO.js133342279657632476 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\entities\lib\maps\entities.json133342279492277229 0
@@ -56,7 +56,7 @@
 115C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\msgpackr\pack.js133342279507874893 0
 154C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133342279645784986 0
 97C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\.prettierrc133340812337919819 0
-106C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\controller.js133344400340716218 0
+106C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\controller.js133345218945944536 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\reflect\index.js133342341950732348 0
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\aggregate-error.js133342341877897757 0
 142C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\dom-exception\constructor.js133342341889665466 0
@@ -75,7 +75,7 @@
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\es.promise.catch.js133342341905722873 0
 144C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\esm\_class_private_field_init.js133342279627530229 0
 153C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133342279631306012 0
-112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\searchView.js133343627996512818 0
+112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\searchView.js133345218946213354 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\util\set-optional-deps.cjs133342279602262916 0
 125C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\forkify-architecture-recipe-loading.png133340812339501935 0
 115C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\cjs\replace133342279550087432 1
@@ -88,7 +88,7 @@
 147C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\css-cascade-layers.js133342279628437793 0
 122C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\nullthrows\package.json133342279413756568 0
 128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\array\group.js133342341939062228 0
-102C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\config.js133344027258198902 0
+102C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\config.js133345218945934553 0
 128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\domhandler\lib\index.d.ts.map133342279439213609 0
 161C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133342279659662272 0
 121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\mdn-data\l10n\css.json133342279486478272 0
@@ -114,10 +114,10 @@
 111C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\mdn-data\css133342279533540011 1
 135C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\date\to-gmt-string.js133342341990575949 0
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\date\to-string.js133342341994032537 0
-96C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\index.html133342333662300213 0
+96C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\index.html133345218945894669 0
+123C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\packager-svg\lib133342279416103424 1
 122C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\function133342341965197590 1
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\array\virtual\at.js133342341883024510 0
-123C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\packager-svg\lib133342279416103424 1
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\picocolors\picocolors.browser.js133342279415651467 0
 118C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\ordered-binary\dist133342279415779812 1
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\instance\reduce.js133342341973078110 0
@@ -132,6 +132,8 @@
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\cjs\syntax\node\CDO.cjs133342279498713017 0
 126C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-svg\src133342279459045409 1
 93C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\LICENSE133340811922274831 0
+155C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133342279497792742 0
+115C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\bookmarksView.js133345218945994401 0
 98C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules133342598224328385 1
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\semver\functions\compare-build.js133342279452637684 0
 129C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-what\lib\es\index.d.ts.map133342279498794825 0
@@ -145,7 +147,7 @@
 177C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\generate.js133342279568713268 0
 118C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\anymatch\index.d.ts133342280580349302 0
 158C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\plugins.js133342279549128642 0
-103C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\package-lock.json133342598225856716 0
+103C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\package-lock.json133345218945914608 0
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\forms.js133342279665798373 0
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\update-browserslist-db\package.json133342279441727677 0
 116C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@msgpackr-extract133342598224368281 1
@@ -161,10 +163,10 @@
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\esnext.number.range.js133342341916504325 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\core\lib\CommittedAsset.js133342279569658279 0
 120C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\xxhash-wasm\README.md133342279461371825 0
-98C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\package.json133342598224565678 0
+98C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\package.json133345246453800868 0
 155C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-select\node_modules\domutils\lib\manipulation.js.map133342279546338396 0
 116C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lru-cache\LICENSE133342279413541710 0
-103C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\helpers.js133342626435989226 0
+103C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\helpers.js133345218945954505 0
 149C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\generator\create.js133342279630228886 0
 124C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\semver\functions\minor.js133342279527130717 0
 104C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@lmdb133342598224388883 1
@@ -176,7 +178,7 @@
 128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\array\every.js133342341922542145 0
 136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\details.js133342279657128296 0
 113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual133342342004158490 1
-92C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js133342614271518619 1
+92C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js133345218945964480 1
 129C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\svgo\plugins\removeMetadata.js133342279557699368 0
 117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\chalk\package.json133342279439327456 0
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\math-fround.js133342341963591101 0
@@ -199,7 +201,7 @@
 147C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\iterator-create-constructor.js133342341955922178 0
 105C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@lezer133342279343239375 1
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-select\lib\esm\attributes.js133342279454103748 0
-113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\resultsView.js133344394665080135 0
+113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\resultsView.js133345218946203376 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\object\is-frozen.js133342341953044165 0
 107C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\entities133342279513979173 1
 174C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133342279443916896 0
@@ -231,7 +233,7 @@
 119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\promise133342342002866575 1
 108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\sass\_preview.scss133340812333772242 0
 141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\reflect\prevent-extensions.js133342341970238148 0
-106C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\View.js133344397450415500 0
+106C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\View.js133345218945974457 0
 113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\normalize-path133342280580197087 1
 140C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\svgo\plugins\addAttributesToSVGElement.js133342279452547189 0
 151C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\LICENSE133342279413956035 0
@@ -254,7 +256,7 @@
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\nth-check\lib\esm\compile.js.map133342279498483639 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\regions\GA.js133342279665996413 0
 151C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133342279500917322 0
-98C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views133344132247647614 1
+98C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views133345218946213354 1
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\array\virtual\iterator.js133342341957350501 0
 118C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\cjs\syntax.cjs133342279541683488 0
 116C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\path-type\license133342279428112834 0
@@ -263,9 +265,13 @@
 111C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\LICENSE133342279413507237 0
 114C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\xxhash-wasm\umd133342279454307706 1
 157C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133342279654926244 0
-101C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\model.js133344315440356472 0
+101C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\model.js133345218945964480 0
 136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\string\is-well-formed.js133342341955011268 0
 121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\domelementtype\LICENSE133342279413537199 0
+141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\array\virtual\for-each.js133342341930968470 0
+170C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\index.js133342279589178550 0
+135C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\Selector.js133342279646412829 0
+115C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\addRecipeView.js133345218945984427 0
 109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\fill-range133342279426076676 1
 150C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\index.js133342279642609542 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\shared-key.js133342341978694768 0
@@ -284,17 +290,12 @@
 144C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\es.reflect.define-property.js133342341906032056 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\dist\lib\supported.js133342279772445202 0
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\cjs\utils\index.cjs133342279589856623 0
-116C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\paginationView.js133344200407812538 0
+116C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\paginationView.js133345218946183403 0
 120C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\sass\sass.default.cjs133342280580207075 0
 145C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\string\virtual\replace-all.js133342341975018605 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\typed-array\some.js133342341981502048 0
 117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\term-size\index.js133342279452557151 0
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\core\bindings\README.md133342279521612250 0
-104C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\clone133342279443266779 1
-121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\entities\lib\decode.js133342279451447184 0
-163C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-arm64-musl.node133342279605709294 0
-109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\braces\lib133342279486368195 1
-112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\node-releases133342279444177519 1
 103C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc133342598224338345 1
 142C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\text-overflow.js133342279775087354 0
 128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\instance\at.js133342341883888680 0
@@ -306,7 +307,7 @@
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\es.string.repeat.js133342341907675944 0
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\array-includes.js133342341880497502 0
 113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\weak-lru-cache133342279459812845 1
-112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\recipeView.js133344352877807022 0
+112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\js\views\recipeView.js133345225772641813 0
 142C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\cjs\syntax\node\common\feature.cjs133342279550017616 0
 105C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\src\img\favicon.png133340812335318739 0
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133342279631914394 1
@@ -399,7 +400,6 @@
 140C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\reflect\delete-property.js133342341894756977 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\graph\src\AdjacencyList.js133342279443495451 0
 104C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\tslib133342279499774000 1
-117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\chrome-trace-event133342279452074536 1
 111C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite133342279785495205 1
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\classof.js133342341887033599 0
 143C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\css3-boxsizing.js133342279648308209 0
@@ -407,6 +407,12 @@
 120C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\mdn-data\api\index.js133342279416257631 0
 144C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\string\virtual\to-well-formed.js133342341994965958 0
 107C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\chokidar133342280580840745 1
+117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\chrome-trace-event133342279452074536 1
+104C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\clone133342279443266779 1
+121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\entities\lib\decode.js133342279451447184 0
+163C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-arm64-musl.node133342279605709294 0
+109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\braces\lib133342279486368195 1
+112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\node-releases133342279444177519 1
 109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\color-name133342279426107465 1
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\index.js133342279641821401 0
 135C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\string\replace-all.js133342341975155973 0
@@ -1231,13 +1237,13 @@
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\web-serial.js133342279784090876 0
 156C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\es.object.get-own-property-descriptors.js133342341904906627 0
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\type-fest\source\conditional-keys.d.ts133342279480821863 0
-122C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\instance133342342003929134 1
-128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\sass\types\value\boolean.d.ts133342280580980367 0
-131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\esm\_await_value.js133342279617711808 0
+119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\semver\ranges\ltr.js133342279521909665 0
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\type-fest\source\conditional-pick.d.ts133342279492203445 0
 145C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\css-text-justify.js133342279645765025 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\regions\ME.js133342279720609556 0
-119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\semver\ranges\ltr.js133342279521909665 0
+122C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\instance133342342003929134 1
+128C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\sass\types\value\boolean.d.ts133342280580980367 0
+131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\esm\_await_value.js133342279617711808 0
 167C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDimensions.js133342279557549781 0
 119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\msgpackr\unpack.d.ts133342279575436644 0
 155C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133342279668309667 0
@@ -1342,7 +1348,6 @@
 117C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\tslib\tslib.es6.js133342279430526446 0
 138C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\node-gyp-build-optional-packages\bin.js133342279415789800 0
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\htmlnano\docs\docs\030-config.md133342279572839344 0
-110C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\forkify.3464ddca.js133342322673394035 0
 150C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133342279513769695 0
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\semver\internal\parse-options.js133342279532810334 0
 140C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs133342279598144329 0
@@ -1966,11 +1971,11 @@
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lines-and-columns\build\index.js133342279417429002 0
 126C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\object\keys.js133342341959037461 0
 123C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\domutils\lib\querying.js133342279452383735 0
+136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\array\virtual\slice.js133342341980157721 0
 177C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.js133342279420984979 0
-133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\string\virtual\big.js133342341884696550 0
 121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\msgpackr\dist\index.js133342279499019879 0
 122C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\posthtml-render\license133342279413676784 0
-136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\array\virtual\slice.js133342341980157721 0
+133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\string\virtual\big.js133342341884696550 0
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\posthtml-render\package.json133342279424818659 0
 147C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133342279641392556 0
 121C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\compressor-raw133342279430120356 1
@@ -2760,6 +2765,7 @@
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\runtime-browser-hmr\src133342279452216725 1
 144C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\intrinsic-width.js133342279670337371 0
 148C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133342279589776832 0
+111C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\favicon.f98b6865.png133345246753870814 0
 145C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\reflect\prevent-extensions.js133342341970208238 0
 156C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\050-modules.md133342279585787970 0
 148C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\names.js133342279644497031 0
@@ -2837,7 +2843,6 @@
 114C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\json5\README.md133342279499942438 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\cjs\clean\TypeSelector.cjs133342279542223582 0
 119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\json5\lib\parse.d.ts133342279508644049 0
-108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.62406edb.js133342328279284523 0
 153C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@babel\highlight\node_modules\ansi-styles\package.json133342279413966007 0
 119C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\json5\lib\require.js133342279459270423 0
 141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\csso\node_modules\css-tree\cjs\version.cjs133342279626106729 0
@@ -3460,7 +3465,6 @@
 151C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133342279504685139 0
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\internals\engine-v8-version.js133342341897915551 0
 141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\es.weak-set.constructor.js133342341910555433 0
-155C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133342279497792742 0
 127C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\stable\array\keys.js133342341959057149 0
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\node-resolver-core\lib\_empty.js133342279417488849 0
 165C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133342279494633522 0
@@ -4117,9 +4121,6 @@
 146C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133342279645725138 0
 136C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-svg\lib\inline.js133342279433907553 0
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\Ratio.js133342279645974470 0
-141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\array\virtual\for-each.js133342341930968470 0
-170C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\index.js133342279589178550 0
-135C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\Selector.js133342279646412829 0
 143C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\modules\esnext.string.code-points.js133342341920268558 0
 130C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\regions\HU.js133342279668399433 0
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-tree\lib\syntax\node\SelectorList.js133342279646523270 0
@@ -4434,6 +4435,7 @@
 131C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\full\weak-set\add-all.js133342341877827946 0
 151C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-select\node_modules\entities\lib\encode.d.ts.map133342279553289938 0
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\actual\string\code-point-at.js133342341887473623 0
+108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\logo.8f52e69c.png133345246753900728 0
 166C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser\sequence.js133342279618220448 0
 157C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-js\parcel-swc.linux-arm-gnueabihf.node133342279670247615 0
 147C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\css-select\node_modules\entities\lib\escape.d.ts133342279588378278 0
@@ -6845,6 +6847,7 @@
 147C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\caniuse-lite\data\features\screen-orientation.js133342279771094231 0
 137C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\json\to-string-tag.js133342341993734848 0
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\iterator\drop.js133342341896394793 0
+108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.0ee66f78.js133345246757501099 0
 133C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\iterator\every.js133342341922127935 0
 132C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\function\bind.js133342341885145405 0
 134C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\core-js\features\iterator\filter.js133342341924204790 0
@@ -8651,6 +8654,7 @@
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\profiler\src\SamplingProfiler.js133342279439317491 0
 139C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-js\lib\loadNative.js133342279452637684 0
 148C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-image\src\ImageTransformer.js133342279425047221 0
+109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.bb84a947.css133345246757491129 0
 175C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Selector.js133342279617765831 0
 167C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133342279538597992 0
 141C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\@parcel\transformer-image\lib\loadSharp.js133342279430663273 0
@@ -9621,14 +9625,9 @@
 108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\.bin\svgo133342279786775911 0
 112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\.bin\svgo.cmd133342279786775911 0
 126C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\node_modules\.bin\update-browserslist-db133342279786775911 0
-111C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\favicon.8b2f57bf.png133344400160557337 0
-114C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\forkify.3464ddca.js.map133342322673443902 0
-109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\icons.21bad73c.svg133344400160337937 0
-109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\icons.dfd7a6db.svg133344400160457614 0
-112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.62406edb.js.map133342328279354326 0
-108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.e37f48ea.js133344400342317878 0
-112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.e37f48ea.js.map133344400342358331 0
-109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.f7626f62.css133344400160752791 0
-113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.f7626f62.css.map133344302514294884 0
-101C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.html133344302509954209 0
-108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\logo.726d37a8.png133344400160657176 0
+109C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\icons.c14567a0.svg133345246756124775 0
+112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.0ee66f78.js.map133345246757720509 0
+113C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.bb84a947.css.map133345246757710531 0
+108C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.c43a6989.js133345246757491129 0
+112C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.c43a6989.js.map133345246757710531 0
+101C:\Users\hmuni\OneDrive\Desktop\New folder\Javascript\Javascript\apps\forkify\forkify\dist\index.html133345246757491129 0

@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mapty <a name="about-project"></a>
+# 📖 Forkify <a name="about-project"></a>
 
 **Forkify** is a web application to search for more than 1,000,000 recipes with features to adjust ingredients according to the servings. Moreover, users can upload their custom recipes & bookmark recipes for future use..
 
